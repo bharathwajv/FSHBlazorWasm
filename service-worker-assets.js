@@ -13,7 +13,7 @@
       "url": "full-stack-hero-logo.png"
     },
     {
-      "hash": "sha256-MycYaIUPo9hpJEIEckqDltyca+QCt6HGN58enVekeYA=",
+      "hash": "sha256-5ndYC39fZPak8WXtrdTgGH67LYgAN46kNtWcuaTkUTY=",
       "url": "index.html"
     },
     {
@@ -553,5 +553,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "AU8JQAD5"
+  "version": "p2v6VKbg"
 };
