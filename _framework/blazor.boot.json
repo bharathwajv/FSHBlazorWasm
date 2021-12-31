@@ -11,9 +11,9 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-ItMv+HytRb8SgPKYiz75PK0k+DFgN1E247PZT\/8lODs=",
-      "FSH.BlazorWebAssembly.Client.dll": "sha256-3fc06CrISgZpq47Z\/O3DIsSABR0tF39GTtP9h\/0HhM4=",
-      "FSH.BlazorWebAssembly.Client.Infrastructure.dll": "sha256-ruW1maXn1wEvfqQy5VrBW8FSE5Mty6kESAMPHBFr\/K4=",
-      "FSH.BlazorWebAssembly.Shared.dll": "sha256-RJtpX\/EDy5\/5ognxxg8IhL7l5Nz60yim1A3HEsmQ\/g0=",
+      "FSH.BlazorWebAssembly.Client.dll": "sha256-dwkNFelMMCGvbRGNm07OkixmN8su27MFWzOQzXIEN8A=",
+      "FSH.BlazorWebAssembly.Client.Infrastructure.dll": "sha256-jiDBqLNQWD34w4BBprpdyPs9K4AafRaFw16h+\/UtRVc=",
+      "FSH.BlazorWebAssembly.Shared.dll": "sha256-e2LkyhApFKQPS30kW9IKRIpExRnr+rB3xMl\/nDYurtg=",
       "Mapster.Core.dll": "sha256-t4scC57orK9Pzk+stzDyapVp1P7RjVmaEkumPBlVL5c=",
       "Mapster.dll": "sha256-+lPyy3ceV5DvNOOuNjSSZF+ayNUIfFHpllnjpIQfTMA=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-+wIWQTUIVhJoTR0zRgD9VVODuEmgx1UZFbx8xfZTlYI=",
@@ -133,37 +133,37 @@
     },
     "satelliteResources": {
       "ar": {
-        "ar\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-Z2uBsfYTIewbn2TFOaEedJ3xEjcus5hQwYXPnQfAMeM="
+        "ar\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-KgIpsS5e8ehU7fM0Buzy\/uhqbh0iByqz6Gr8598doP4="
       },
       "de": {
-        "de\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-3raRXnQ3\/gCYBn4ZoyyXnoo9vExiQgHfKpzDI1SlbN4="
+        "de\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-2lypCVmDoxCVPetmUn6+6WHelfiKqv91b0c+iAkzY0g="
       },
       "en": {
-        "en\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-H9Y6lfCSYCNQIpmhnIlLTLU93IzGSNZacC\/8LoC27rM="
+        "en\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-AnpWisMGYs6\/Ho\/B3OgY7h27YEOq4fKjY8L7jVrF0EI="
       },
       "es": {
-        "es\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-snFJLu5bWAsCPs4OM0vF+sQuMNo\/hJapc3QW2Hlq\/pQ="
+        "es\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-MawnPkC7V2KcxJ8CCnSEje5WCk2mo4fRSzrk3I4UKD8="
       },
       "fr": {
-        "fr\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-od6ryLHE8Ix7IASE5gGQlcZ1qA+uv7V6vbirCWucTjU="
+        "fr\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-3ysMoqtgZclr8d9lYWb+96Fn3enAC1awsP5nlGDrUoE="
       },
       "id": {
-        "id\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-vsG3IxITbTwSJSMYlLpgmelvz\/lCGNzrqorgfD8b+Xw="
+        "id\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-N8ZyRTTZ\/Jjv52IteCeVAy4lZfkx30fg59ldkZylU5g="
       },
       "it": {
-        "it\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-Yjq5KZOzAMsYKP2fMraabo5LcFqpiyWC9EAjMG\/956U="
+        "it\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-YZVX3Up\/lts1F\/jaLuAKnfGBXw8GjT2AdK+aQ0tvWso="
       },
       "km": {
-        "km\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-f90MpeqabvsHNzfKR2nPsMlDwzhJjaLECKRgXwmAJq4="
+        "km\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-hhruFpqFfvwBo8c7ud5jrI3AmaVXRobcEvU5QJgM+7Y="
       },
       "nl": {
-        "nl\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-Lqdcf9VLNH9vPNlRMkFWqzCZoB4xoT58rrkwxP5X5Jc="
+        "nl\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-u718qsAOA6ZY8rmSTgfzdY6toI7lox2i42q0tgNC7t0="
       },
       "ru": {
-        "ru\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-JKh+snDQ+mBx3UQiWC+S\/5efLGSUMoDALLQ26MoEM3w="
+        "ru\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-DoLZ2TJ39cQa5FkzvArw5To6CDMfKRzImEYEpBnL5OM="
       },
       "sv": {
-        "sv\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-SFp0ObTIgPEcLpA3dK9ScNKIW+ANQz0AsW91jsDKp5o="
+        "sv\/FSH.BlazorWebAssembly.Client.resources.dll": "sha256-qsagQhpApoD8N2QRwB5jG+hXNjzvTLJwsxMuzKpeLgI="
       }
     }
   }
